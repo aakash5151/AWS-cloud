@@ -80,36 +80,19 @@ Advantages of Cloud Computing:
 
 1) Back-up and restore data-
 
-	Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud.
-
 2) Improved collaboration-
-
-	Cloud applications improve collaboration by allowing groups of people to quickly and easily share information in the cloud via shared storage.
 
 3) Excellent accessibility-
 
-	Cloud allows us to quickly and easily access store information anywhere, anytime in the whole world, using an internet connection. 
-	An internet cloud infrastructure increases organization productivity and efficiency by ensuring that our data is always accessible.
-
 4) Low maintenance cost-
 
-	Cloud computing reduces both hardware and software maintenance costs for organizations.
+5) Mobility
 
-5) Mobility-
+6) IServices in the pay-per-use model
 
-	Cloud computing allows us to easily access all cloud data via mobile.
+7) Unlimited storage capacity
 
-6) IServices in the pay-per-use model-
-
-	Cloud computing offers Application Programming Interfaces (APIs) to the users for access services on the cloud and pays the charges as per the usage of service.
-
-7) Unlimited storage capacity-
-
-	Cloud offers us a huge amount of storing capacity for storing our important data such as documents, images, audio, video, etc. in one place.
-
-8) Data security-
-
-	Data security is one of the biggest advantages of cloud computing. Cloud offers many advanced features related to security and ensures that data is securely stored and handled.
+8) Data security
 
 
 
