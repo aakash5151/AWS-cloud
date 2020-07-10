@@ -40,53 +40,32 @@ Characteristics of cloud computing:
 
 1) Agility
 
-	The cloud works in a distributed computing environment. It shares resources among users and works very fast.
-
 2) High availability and reliability
-
-	The availability of servers is high and more reliable because the chances of infrastructure failure are minimum.
 
 3) High Scalability
 
-	Cloud offers "on-demand" provisioning of resources on a large scale, without having engineers for peak loads.
-
 4) Multi-Sharing
-
-	With the help of cloud computing, multiple users and applications can work more efficiently with cost reductions by sharing common infrastructure.
 
 5) Device and Location Independence
 
-	Cloud computing enables the users to access systems using a web browser regardless of their location or what device they use 
-	e.g. PC, mobile phone, etc. As infrastructure is off-site (typically provided by a third-party) and accessed via the Internet, users can connect from anywhere.
-
 6) Maintenance
-
-	Maintenance of cloud computing applications is easier, since they do not need to be installed on each user's computer 
-	and can be accessed from different places. So, it reduces the cost also.
 
 7) Low Cost
 
-	By using cloud computing, the cost will be reduced because to take the services of cloud computing, 
-	IT company need not to set its own infrastructure and pay-as-per usage of resources.
-
 8) Services in the pay-per-use mode
-
-	Application Programming Interfaces (APIs) are provided to the users so that they can access services on the cloud 
-	by using these APIs and pay the charges as per the usage of services.
 
 
 
 cloud deployment models:
 
+
 Private cloud:
-
+	
 	A private cloud is a server, data center, or distributed network wholly dedicated to one organization.
-
 Public cloud: 
 
 	A public cloud is a service run by an external vendor that may include servers in one or multiple data centers. 
 	Unlike a private cloud, public clouds are shared by multiple organizations.
-
 Hybrid cloud: 
 	
 	Hybrid cloud deployments combine public and private clouds, and may even include on-premises legacy servers. 
@@ -139,16 +118,13 @@ Disadvantages of Cloud Computing:
 
 
 1) Internet Connectivity
-As we know, in cloud computing, every data (image, audio, video, etc.) is stored on the cloud, and we access these data through the cloud by using the internet connection. If you do not have good internet connectivity, you cannot access these data. However, we have no any other way to access data from the cloud.
 
 2) Vendor lock-in
-Vendor lock-in is the biggest disadvantage of cloud computing. Organizations may face problems when transferring their services from one vendor to another. As different vendors provide different platforms, that can cause difficulty moving from one cloud to another.
 
 3) Limited Control
-As we know, cloud infrastructure is completely owned, managed, and monitored by the service provider, so the cloud users have less control over the function and execution of services within a cloud infrastructure.
 
 4) Security
-Although cloud service providers implement the best security standards to store important information. But, before adopting cloud technology, you should be aware that you will be sending all your organization's sensitive information to a third party, i.e., a cloud computing service provider. While sending the data on the cloud, there may be a chance that your organization's information is hacked by Hackers.
+
 
 
 EC-2:
